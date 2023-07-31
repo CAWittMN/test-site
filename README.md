@@ -4,7 +4,7 @@ This is a simple interactive website that displays different-sized circles with 
 
 ## Demo
 
-You can see a live demo of the website [here]([https://your-demo-url.com](https://cawittmn.github.io/test-site/).
+You can see a live demo of the website [here](https://cawittmn.github.io/test-site/).
 
 ## Features
 
