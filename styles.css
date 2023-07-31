@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f2630; /* Dark greyish-blue background color */
+}
+#canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Set z-index to -1 to keep the canvas behind other elements */
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  background-color: #0099ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.portfolio-content {
+  position: relative; /* Ensure the other content stays in front of the canvas */
+  z-index: 1; /* Set a higher z-index to ensure it's in front of the canvas */
+  padding: 20px;
+}
