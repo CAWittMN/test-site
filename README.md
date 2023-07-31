@@ -9,9 +9,7 @@ You can see a live demo of the website [here](https://cawittmn.github.io/test-si
 ## Features
 
 - Interactive parallax effect based on mouse movement
-- Smooth movement with acceleration and deceleration
 - Circles blur based on their depth, giving a sense of depth of field
-- Circles wrap around the screen edges, creating a seamless effect
 
 ## Installation
 
